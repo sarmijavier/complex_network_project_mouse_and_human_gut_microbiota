@@ -1,0 +1,1 @@
+"convert_NJC19_json_to_excel.py" is a Python code that converts the format of "NJC19_network.json" (NJC19 network data file) to the format of Worksheet e in "Mammalian_Microbiome_Network_NJC19.xlsx".

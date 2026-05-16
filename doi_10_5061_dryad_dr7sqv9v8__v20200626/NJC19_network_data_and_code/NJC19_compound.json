@@ -1,0 +1,2995 @@
+{
+	"D-Glucose (Glucose)": {
+		"type": "small molecule",
+		"name": [
+			"D-Glucose",
+			"Glucose"
+		],
+		"KEGG compound identifier": [
+			"C00031"
+		]
+	},
+	"Sucrose": {
+		"type": "small molecule",
+		"name": [
+			"Sucrose"
+		],
+		"KEGG compound identifier": [
+			"C00089"
+		]
+	},
+	"D-Fructose (Fructose)": {
+		"type": "small molecule",
+		"name": [
+			"D-Fructose",
+			"Fructose"
+		],
+		"KEGG compound identifier": [
+			"C00095"
+		]
+	},
+	"Glycerol": {
+		"type": "small molecule",
+		"name": [
+			"Glycerol"
+		],
+		"KEGG compound identifier": [
+			"C00116"
+		]
+	},
+	"D-Ribose (Ribose)": {
+		"type": "small molecule",
+		"name": [
+			"D-Ribose",
+			"Ribose"
+		],
+		"KEGG compound identifier": [
+			"C00121"
+		]
+	},
+	"D-Galactose": {
+		"type": "small molecule",
+		"name": [
+			"D-Galactose"
+		],
+		"KEGG compound identifier": [
+			"C00124"
+		]
+	},
+	"N-Acetyl-D-Glucosamine (N-Acetylglucosamine)": {
+		"type": "small molecule",
+		"name": [
+			"N-Acetyl-D-Glucosamine",
+			"N-Acetylglucosamine"
+		],
+		"KEGG compound identifier": [
+			"C00140"
+		]
+	},
+	"D-Mannose (Mannose)": {
+		"type": "small molecule",
+		"name": [
+			"D-Mannose",
+			"Mannose"
+		],
+		"KEGG compound identifier": [
+			"C00159"
+		]
+	},
+	"D-Xylose (Xylose)": {
+		"type": "small molecule",
+		"name": [
+			"D-Xylose",
+			"Xylose"
+		],
+		"KEGG compound identifier": [
+			"C00181"
+		]
+	},
+	"Cellobiose": {
+		"type": "small molecule",
+		"name": [
+			"Cellobiose"
+		],
+		"KEGG compound identifier": [
+			"C00185"
+		]
+	},
+	"D-Glucuronic acid (D-Glucuronate)": {
+		"type": "small molecule",
+		"name": [
+			"D-Glucuronic acid",
+			"D-Glucuronate"
+		],
+		"KEGG compound identifier": [
+			"C00191"
+		]
+	},
+	"Maltose": {
+		"type": "small molecule",
+		"name": [
+			"Maltose"
+		],
+		"KEGG compound identifier": [
+			"C00208"
+		]
+	},
+	"D-Arabinose (L-Arabinose, Arabinose, L-Arabinopyranose, L-Arabinofuranose)": {
+		"type": "small molecule",
+		"name": [
+			"D-Arabinose",
+			"L-Arabinose",
+			"Arabinose",
+			"L-Arabinopyranose",
+			"L-Arabinofuranose"
+		],
+		"KEGG compound identifier": [
+			"C00216",
+			"C00259"
+		]
+	},
+	"Lactose": {
+		"type": "small molecule",
+		"name": [
+			"Lactose"
+		],
+		"KEGG compound identifier": [
+			"C00243"
+		]
+	},
+	"L-Sorbose (Sorbose)": {
+		"type": "small molecule",
+		"name": [
+			"L-Sorbose",
+			"Sorbose"
+		],
+		"KEGG compound identifier": [
+			"C00247"
+		]
+	},
+	"Isomaltose": {
+		"type": "small molecule",
+		"name": [
+			"Isomaltose"
+		],
+		"KEGG compound identifier": [
+			"C00252"
+		]
+	},
+	"D-Gluconate (D-Gluconic acid, Gluconate)": {
+		"type": "small molecule",
+		"name": [
+			"D-Gluconate",
+			"D-Gluconic acid",
+			"Gluconate"
+		],
+		"KEGG compound identifier": [
+			"C00257"
+		]
+	},
+	"D-Glycerate (Glycerate, [R]-Glycerate, Glyceric acid)": {
+		"type": "small molecule",
+		"name": [
+			"D-Glycerate",
+			"Glycerate",
+			"[R]-Glycerate",
+			"Glyceric acid"
+		],
+		"KEGG compound identifier": [
+			"C00258"
+		]
+	},
+	"N-Acetylneuraminic acid (N-acetylneuraminate, Neu5Ac, Sialic acid)": {
+		"type": "small molecule",
+		"name": [
+			"N-Acetylneuraminic acid",
+			"N-acetylneuraminate",
+			"Neu5Ac",
+			"Sialic acid"
+		],
+		"KEGG compound identifier": [
+			"C00270"
+		]
+	},
+	"D-Xylulose (Xylulose, L-Xylulose)": {
+		"type": "small molecule",
+		"name": [
+			"D-Xylulose",
+			"Xylulose",
+			"L-Xylulose"
+		],
+		"KEGG compound identifier": [
+			"C00310",
+			"C00312"
+		]
+	},
+	"D-Glucosamine (Glucosamine)": {
+		"type": "small molecule",
+		"name": [
+			"D-Glucosamine",
+			"Glucosamine"
+		],
+		"KEGG compound identifier": [
+			"C00329"
+		]
+	},
+	"D-Galacturonate": {
+		"type": "small molecule",
+		"name": [
+			"D-Galacturonate"
+		],
+		"KEGG compound identifier": [
+			"C00333"
+		]
+	},
+	"Xylitol": {
+		"type": "small molecule",
+		"name": [
+			"Xylitol"
+		],
+		"KEGG compound identifier": [
+			"C00379"
+		]
+	},
+	"D-Mannitol (Mannitol)": {
+		"type": "small molecule",
+		"name": [
+			"D-Mannitol",
+			"Mannitol"
+		],
+		"KEGG compound identifier": [
+			"C00392"
+		]
+	},
+	"Ribitol (Adonitol)": {
+		"type": "small molecule",
+		"name": [
+			"Ribitol",
+			"Adonitol"
+		],
+		"KEGG compound identifier": [
+			"C00474"
+		]
+	},
+	"D-Lyxose (L-Lyxose)": {
+		"type": "small molecule",
+		"name": [
+			"D-Lyxose",
+			"L-Lyxose"
+		],
+		"KEGG compound identifier": [
+			"C00476",
+			"C01508"
+		]
+	},
+	"Raffinose": {
+		"type": "small molecule",
+		"name": [
+			"Raffinose"
+		],
+		"KEGG compound identifier": [
+			"C00492"
+		]
+	},
+	"Erythritol": {
+		"type": "small molecule",
+		"name": [
+			"Erythritol"
+		],
+		"KEGG compound identifier": [
+			"C00503"
+		]
+	},
+	"L-Rhamnose (Rhamnose, D-Rhamnose)": {
+		"type": "small molecule",
+		"name": [
+			"L-Rhamnose",
+			"Rhamnose",
+			"D-Rhamnose"
+		],
+		"KEGG compound identifier": [
+			"C00507",
+			"C01684"
+		]
+	},
+	"L-Arabitol (L-Arabinitol, D-Arabitol)": {
+		"type": "small molecule",
+		"name": [
+			"L-Arabitol",
+			"L-Arabinitol",
+			"D-Arabitol"
+		],
+		"KEGG compound identifier": [
+			"C00532",
+			"C01904"
+		]
+	},
+	"D-Tagaturonate": {
+		"type": "small molecule",
+		"name": [
+			"D-Tagaturonate"
+		],
+		"KEGG compound identifier": [
+			"C00558"
+		]
+	},
+	"N-Acetyl-D-mannosamine": {
+		"type": "small molecule",
+		"name": [
+			"N-Acetyl-D-mannosamine"
+		],
+		"KEGG compound identifier": [
+			"C00645"
+		]
+	},
+	"Dextrin (Maltotriose, Maltodextrin, Maltohexaose, Maltotetraose, Maltooligosaccharide)": {
+		"type": "small molecule",
+		"name": [
+			"Dextrin",
+			"Maltotriose",
+			"Maltodextrin",
+			"Maltohexaose",
+			"Maltotetraose",
+			"Maltooligosaccharide"
+		],
+		"KEGG compound identifier": [
+			"C00721",
+			"C01835",
+			"C01935",
+			"C01936",
+			"C02052"
+		]
+	},
+	"L-Idonate": {
+		"type": "small molecule",
+		"name": [
+			"L-Idonate"
+		],
+		"KEGG compound identifier": [
+			"C00770"
+		]
+	},
+	"D-Sorbitol (D-Glucitol, Sorbitol, Glucitol, L-Sorbitol, Sorbitol)": {
+		"type": "small molecule",
+		"name": [
+			"D-Sorbitol",
+			"D-Glucitol",
+			"Sorbitol",
+			"Glucitol",
+			"L-Sorbitol",
+			"Sorbitol"
+		],
+		"KEGG compound identifier": [
+			"C00794",
+			"C01722"
+		]
+	},
+	"D-Tagatose": {
+		"type": "small molecule",
+		"name": [
+			"D-Tagatose"
+		],
+		"KEGG compound identifier": [
+			"C00795"
+		]
+	},
+	"D-Fructuronate": {
+		"type": "small molecule",
+		"name": [
+			"D-Fructuronate"
+		],
+		"KEGG compound identifier": [
+			"C00905"
+		]
+	},
+	"L-Fucose": {
+		"type": "small molecule",
+		"name": [
+			"L-Fucose"
+		],
+		"KEGG compound identifier": [
+			"C01019"
+		]
+	},
+	"N-Acetylgalactosamine (N-Acetyl-D-galactosamine)": {
+		"type": "small molecule",
+		"name": [
+			"N-Acetylgalactosamine",
+			"N-Acetyl-D-galactosamine"
+		],
+		"KEGG compound identifier": [
+			"C01074"
+		]
+	},
+	"Trehalose": {
+		"type": "small molecule",
+		"name": [
+			"Trehalose"
+		],
+		"KEGG compound identifier": [
+			"C01083"
+		]
+	},
+	"Stachyose": {
+		"type": "small molecule",
+		"name": [
+			"Stachyose"
+		],
+		"KEGG compound identifier": [
+			"C01613"
+		]
+	},
+	"Galactitol (Dulcitol)": {
+		"type": "small molecule",
+		"name": [
+			"Galactitol",
+			"Dulcitol"
+		],
+		"KEGG compound identifier": [
+			"C01697"
+		]
+	},
+	"Palatinose (Isomaltulose)": {
+		"type": "small molecule",
+		"name": [
+			"Palatinose",
+			"Isomaltulose"
+		],
+		"KEGG compound identifier": [
+			"C01742"
+		]
+	},
+	"Cellotetraose (Cellohexaose, Cellopentaose, Cellotriose)": {
+		"type": "small molecule",
+		"name": [
+			"Cellotetraose",
+			"Cellohexaose",
+			"Cellopentaose",
+			"Cellotriose"
+		],
+		"KEGG compound identifier": [
+			"C02013",
+			"C06217",
+			"C06218",
+			"C06219"
+		]
+	},
+	"D-Galactosamine (Galactosamine)": {
+		"type": "small molecule",
+		"name": [
+			"D-Galactosamine",
+			"Galactosamine"
+		],
+		"KEGG compound identifier": [
+			"C02262"
+		]
+	},
+	"Melibiose": {
+		"type": "small molecule",
+		"name": [
+			"Melibiose"
+		],
+		"KEGG compound identifier": [
+			"C05402"
+		]
+	},
+	"D-Psicose": {
+		"type": "small molecule",
+		"name": [
+			"D-Psicose"
+		],
+		"KEGG compound identifier": [
+			"C06468"
+		]
+	},
+	"L-iduronate": {
+		"type": "small molecule",
+		"name": [
+			"L-iduronate"
+		],
+		"KEGG compound identifier": [
+			"C06472"
+		]
+	},
+	"D-Turanose": {
+		"type": "small molecule",
+		"name": [
+			"D-Turanose"
+		],
+		"KEGG compound identifier": [
+			"C19636"
+		]
+	},
+	"FOS (Fructooligosaccharide)": {
+		"type": "small molecule",
+		"name": [
+			"FOS",
+			"Fructooligosaccharide"
+		],
+		"KEGG compound identifier": []
+	},
+	"XOS (Xylooligosaccharide)": {
+		"type": "small molecule",
+		"name": [
+			"XOS",
+			"Xylooligosaccharide"
+		],
+		"KEGG compound identifier": []
+	},
+	"L-Glutamate (L-Glutamic acid, Glutamate, D-Glutamate)": {
+		"type": "small molecule",
+		"name": [
+			"L-Glutamate",
+			"L-Glutamic acid",
+			"Glutamate",
+			"D-Glutamate"
+		],
+		"KEGG compound identifier": [
+			"C00025",
+			"C00217"
+		]
+	},
+	"L-Glycine (Glycine)": {
+		"type": "small molecule",
+		"name": [
+			"L-Glycine",
+			"Glycine"
+		],
+		"KEGG compound identifier": [
+			"C00037"
+		]
+	},
+	"L-Alanine (D-Alanine, Alanine)": {
+		"type": "small molecule",
+		"name": [
+			"L-Alanine",
+			"D-Alanine",
+			"Alanine"
+		],
+		"KEGG compound identifier": [
+			"C00041",
+			"C00133"
+		]
+	},
+	"L-Lysine (Lysine, D-Lysine)": {
+		"type": "small molecule",
+		"name": [
+			"L-Lysine",
+			"Lysine",
+			"D-Lysine"
+		],
+		"KEGG compound identifier": [
+			"C00047",
+			"C00739"
+		]
+	},
+	"L-Aspartate (Aspartate, D-Aspartate)": {
+		"type": "small molecule",
+		"name": [
+			"L-Aspartate",
+			"Aspartate",
+			"D-Aspartate"
+		],
+		"KEGG compound identifier": [
+			"C00049",
+			"C00402"
+		]
+	},
+	"L-Arginine (Arginine)": {
+		"type": "small molecule",
+		"name": [
+			"L-Arginine",
+			"Arginine"
+		],
+		"KEGG compound identifier": [
+			"C00062"
+		]
+	},
+	"L-Glutamine (D-Glutamine, Glutamine)": {
+		"type": "small molecule",
+		"name": [
+			"L-Glutamine",
+			"D-Glutamine",
+			"Glutamine"
+		],
+		"KEGG compound identifier": [
+			"C00064",
+			"C00819"
+		]
+	},
+	"L-Serine (Serine, D-Serine)": {
+		"type": "small molecule",
+		"name": [
+			"L-Serine",
+			"Serine",
+			"D-Serine"
+		],
+		"KEGG compound identifier": [
+			"C00065",
+			"C00740"
+		]
+	},
+	"L-Methionine (D-Methionine)": {
+		"type": "small molecule",
+		"name": [
+			"L-Methionine",
+			"D-Methionine"
+		],
+		"KEGG compound identifier": [
+			"C00073",
+			"C00855"
+		]
+	},
+	"L-Ornithine (Ornithine)": {
+		"type": "small molecule",
+		"name": [
+			"L-Ornithine",
+			"Ornithine"
+		],
+		"KEGG compound identifier": [
+			"C00077"
+		]
+	},
+	"L-Tryptophan (Tryptophan)": {
+		"type": "small molecule",
+		"name": [
+			"L-Tryptophan",
+			"Tryptophan"
+		],
+		"KEGG compound identifier": [
+			"C00078"
+		]
+	},
+	"L-Phenylalanine (Phenylalanine, D-Phenylalanine)": {
+		"type": "small molecule",
+		"name": [
+			"L-Phenylalanine",
+			"Phenylalanine",
+			"D-Phenylalanine"
+		],
+		"KEGG compound identifier": [
+			"C00079",
+			"C02265"
+		]
+	},
+	"L-Tyrosine (Tyrosine)": {
+		"type": "small molecule",
+		"name": [
+			"L-Tyrosine",
+			"Tyrosine"
+		],
+		"KEGG compound identifier": [
+			"C00082"
+		]
+	},
+	"L-Cysteine (Cysteine, D-Cysteine)": {
+		"type": "small molecule",
+		"name": [
+			"L-Cysteine",
+			"Cysteine",
+			"D-Cysteine"
+		],
+		"KEGG compound identifier": [
+			"C00097",
+			"C00793"
+		]
+	},
+	"beta-alanine (3-Aminopropionate)": {
+		"type": "small molecule",
+		"name": [
+			"beta-alanine",
+			"3-Aminopropionate"
+		],
+		"KEGG compound identifier": [
+			"C00099"
+		]
+	},
+	"L-Leucine (Leucine)": {
+		"type": "small molecule",
+		"name": [
+			"L-Leucine",
+			"Leucine"
+		],
+		"KEGG compound identifier": [
+			"C00123"
+		]
+	},
+	"L-Histidine (Histidine)": {
+		"type": "small molecule",
+		"name": [
+			"L-Histidine",
+			"Histidine"
+		],
+		"KEGG compound identifier": [
+			"C00135"
+		]
+	},
+	"L-Proline (Proline, D-Proline)": {
+		"type": "small molecule",
+		"name": [
+			"L-Proline",
+			"Proline",
+			"D-Proline"
+		],
+		"KEGG compound identifier": [
+			"C00148",
+			"C00763"
+		]
+	},
+	"L-Asparagine (Asparagine)": {
+		"type": "small molecule",
+		"name": [
+			"L-Asparagine",
+			"Asparagine"
+		],
+		"KEGG compound identifier": [
+			"C00152"
+		]
+	},
+	"L-Valine (Valine, D-Valine)": {
+		"type": "small molecule",
+		"name": [
+			"L-Valine",
+			"Valine",
+			"D-Valine"
+		],
+		"KEGG compound identifier": [
+			"C00183",
+			"C06417"
+		]
+	},
+	"L-Threonine (Threonine)": {
+		"type": "small molecule",
+		"name": [
+			"L-Threonine",
+			"Threonine"
+		],
+		"KEGG compound identifier": [
+			"C00188"
+		]
+	},
+	"L-Homoserine": {
+		"type": "small molecule",
+		"name": [
+			"L-Homoserine"
+		],
+		"KEGG compound identifier": [
+			"C00263"
+		]
+	},
+	"L-Carnitine (D-Carnitine)": {
+		"type": "small molecule",
+		"name": [
+			"L-Carnitine",
+			"D-Carnitine"
+		],
+		"KEGG compound identifier": [
+			"C00318",
+			"C15025"
+		]
+	},
+	"L-Isoleucine (Isoleucine)": {
+		"type": "small molecule",
+		"name": [
+			"L-Isoleucine",
+			"Isoleucine"
+		],
+		"KEGG compound identifier": [
+			"C00407"
+		]
+	},
+	"L-Selenocysteine": {
+		"type": "small molecule",
+		"name": [
+			"L-Selenocysteine"
+		],
+		"KEGG compound identifier": [
+			"C05688"
+		]
+	},
+	"Uracil": {
+		"type": "small molecule",
+		"name": [
+			"Uracil"
+		],
+		"KEGG compound identifier": [
+			"C00106"
+		]
+	},
+	"Adenine": {
+		"type": "small molecule",
+		"name": [
+			"Adenine"
+		],
+		"KEGG compound identifier": [
+			"C00147"
+		]
+	},
+	"Thymine": {
+		"type": "small molecule",
+		"name": [
+			"Thymine"
+		],
+		"KEGG compound identifier": [
+			"C00178"
+		]
+	},
+	"Adenosine": {
+		"type": "small molecule",
+		"name": [
+			"Adenosine"
+		],
+		"KEGG compound identifier": [
+			"C00212"
+		]
+	},
+	"Thymidine": {
+		"type": "small molecule",
+		"name": [
+			"Thymidine"
+		],
+		"KEGG compound identifier": [
+			"C00214"
+		]
+	},
+	"Guanine": {
+		"type": "small molecule",
+		"name": [
+			"Guanine"
+		],
+		"KEGG compound identifier": [
+			"C00242"
+		]
+	},
+	"Inosine": {
+		"type": "small molecule",
+		"name": [
+			"Inosine"
+		],
+		"KEGG compound identifier": [
+			"C00294"
+		]
+	},
+	"Uridine": {
+		"type": "small molecule",
+		"name": [
+			"Uridine"
+		],
+		"KEGG compound identifier": [
+			"C00299"
+		]
+	},
+	"Cytosine": {
+		"type": "small molecule",
+		"name": [
+			"Cytosine"
+		],
+		"KEGG compound identifier": [
+			"C00380"
+		]
+	},
+	"Xanthine": {
+		"type": "small molecule",
+		"name": [
+			"Xanthine"
+		],
+		"KEGG compound identifier": [
+			"C00385"
+		]
+	},
+	"Guanosine": {
+		"type": "small molecule",
+		"name": [
+			"Guanosine"
+		],
+		"KEGG compound identifier": [
+			"C00387"
+		]
+	},
+	"Cytidine": {
+		"type": "small molecule",
+		"name": [
+			"Cytidine"
+		],
+		"KEGG compound identifier": [
+			"C00475"
+		]
+	},
+	"Ascorbic acid (Vitamin C, L-Ascorbate, Ascorbate)": {
+		"type": "small molecule",
+		"name": [
+			"Ascorbic acid",
+			"Vitamin C",
+			"L-Ascorbate",
+			"Ascorbate"
+		],
+		"KEGG compound identifier": [
+			"C00072"
+		]
+	},
+	"Choline": {
+		"type": "small molecule",
+		"name": [
+			"Choline"
+		],
+		"KEGG compound identifier": [
+			"C00114"
+		]
+	},
+	"Biotin (Vitamin B7)": {
+		"type": "small molecule",
+		"name": [
+			"Biotin",
+			"Vitamin B7"
+		],
+		"KEGG compound identifier": [
+			"C00120"
+		]
+	},
+	"Adenosylcobalamin (Vitamin B12, Cobamide coenzyme, Cob[II]alamin, Vitamin B12r, Cob[I]alamin, Vitamin B12s, Aquacobalamin, Cobalamin [III])": {
+		"type": "small molecule",
+		"name": [
+			"Adenosylcobalamin",
+			"Vitamin B12",
+			"Cobamide coenzyme",
+			"Cob[II]alamin",
+			"Vitamin B12r",
+			"Cob[I]alamin",
+			"Vitamin B12s",
+			"Aquacobalamin",
+			"Cobalamin [III]"
+		],
+		"KEGG compound identifier": [
+			"C00194"
+		]
+	},
+	"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)": {
+		"type": "small molecule",
+		"name": [
+			"Pyridoxal",
+			"Vitamin B6",
+			"Pyridoxine",
+			"Pyridoxamine",
+			"Vitamin B6"
+		],
+		"KEGG compound identifier": [
+			"C00250",
+			"C00314",
+			"C00534"
+		]
+	},
+	"Niacin (Vitamin B3, Nicotinic acid, Nicotinate, Nicotinamide, Vitamin B3)": {
+		"type": "small molecule",
+		"name": [
+			"Niacin",
+			"Vitamin B3",
+			"Nicotinic acid",
+			"Nicotinate",
+			"Nicotinamide",
+			"Vitamin B3"
+		],
+		"KEGG compound identifier": [
+			"C00153",
+			"C00253"
+		]
+	},
+	"Riboflavin (Vitamin B2)": {
+		"type": "small molecule",
+		"name": [
+			"Riboflavin",
+			"Vitamin B2"
+		],
+		"KEGG compound identifier": [
+			"C00255"
+		]
+	},
+	"Thiamine (Vitamin B1, Thiamin)": {
+		"type": "small molecule",
+		"name": [
+			"Thiamine",
+			"Vitamin B1",
+			"Thiamin"
+		],
+		"KEGG compound identifier": [
+			"C00378"
+		]
+	},
+	"Retinol (Vitamin A)": {
+		"type": "small molecule",
+		"name": [
+			"Retinol",
+			"Vitamin A"
+		],
+		"KEGG compound identifier": [
+			"C00473"
+		]
+	},
+	"Folic acid (Folate, Vitamin B9)": {
+		"type": "small molecule",
+		"name": [
+			"Folic acid",
+			"Folate",
+			"Vitamin B9"
+		],
+		"KEGG compound identifier": [
+			"C00504"
+		]
+	},
+	"Retinoate": {
+		"type": "small molecule",
+		"name": [
+			"Retinoate"
+		],
+		"KEGG compound identifier": [
+			"C00777"
+		]
+	},
+	"Menaquinone (Vitamin K2)": {
+		"type": "small molecule",
+		"name": [
+			"Menaquinone",
+			"Vitamin K2"
+		],
+		"KEGG compound identifier": [
+			"C00828"
+		]
+	},
+	"Pantothenic acid (Vitamin B5, Pantothenate)": {
+		"type": "small molecule",
+		"name": [
+			"Pantothenic acid",
+			"Vitamin B5",
+			"Pantothenate"
+		],
+		"KEGG compound identifier": [
+			"C00864"
+		]
+	},
+	"Phylloquinone (Vitamin K1)": {
+		"type": "small molecule",
+		"name": [
+			"Phylloquinone",
+			"Vitamin K1"
+		],
+		"KEGG compound identifier": [
+			"C02059"
+		]
+	},
+	"alpha-Tocopherol (Vitamin E, alpha-Tocotrienol)": {
+		"type": "small molecule",
+		"name": [
+			"alpha-Tocopherol",
+			"Vitamin E",
+			"alpha-Tocotrienol"
+		],
+		"KEGG compound identifier": [
+			"C02477",
+			"C14155",
+			"C14153"
+		]
+	},
+	"Arachidonate": {
+		"type": "small molecule",
+		"name": [
+			"Arachidonate"
+		],
+		"KEGG compound identifier": [
+			"C00219"
+		]
+	},
+	"Cholecalciferol (Vitamin D3, Vitamin D2)": {
+		"type": "small molecule",
+		"name": [
+			"Cholecalciferol",
+			"Vitamin D3",
+			"Vitamin D2"
+		],
+		"KEGG compound identifier": [
+			"C05443",
+			"C05441"
+		]
+	},
+	"Palmitate (Palmitic acid, Hexadecanoic acid, Hexadecanoate)": {
+		"type": "small molecule",
+		"name": [
+			"Palmitate",
+			"Palmitic acid",
+			"Hexadecanoic acid",
+			"Hexadecanoate"
+		],
+		"KEGG compound identifier": [
+			"C00249"
+		]
+	},
+	"1,2-diacylglycerol (1-acylglycerol, Monoacylglycerol, Monoglyceride, Monoacylglycerol, Diacylglycerol)": {
+		"type": "small molecule",
+		"name": [
+			"1,2-diacylglycerol",
+			"1-acylglycerol",
+			"Monoacylglycerol",
+			"Monoglyceride",
+			"Monoacylglycerol",
+			"Diacylglycerol"
+		],
+		"KEGG compound identifier": [
+			"C00641",
+			"C01885",
+			"C00165"
+		]
+	},
+	"Oleic acid ([9Z]-Octadecenoic acid)": {
+		"type": "small molecule",
+		"name": [
+			"Oleic acid",
+			"[9Z]-Octadecenoic acid"
+		],
+		"KEGG compound identifier": [
+			"C00712"
+		]
+	},
+	"Lipoic acid (Lipoate)": {
+		"type": "small molecule",
+		"name": [
+			"Lipoic acid",
+			"Lipoate"
+		],
+		"KEGG compound identifier": [
+			"C00725"
+		]
+	},
+	"Stearic acid (Stearate, Octadecanoate)": {
+		"type": "small molecule",
+		"name": [
+			"Stearic acid",
+			"Stearate",
+			"Octadecanoate"
+		],
+		"KEGG compound identifier": [
+			"C01530"
+		]
+	},
+	"Decanoic acid (Decanoate)": {
+		"type": "small molecule",
+		"name": [
+			"Decanoic acid",
+			"Decanoate"
+		],
+		"KEGG compound identifier": [
+			"C01571"
+		]
+	},
+	"Caproate (Hexanoate)": {
+		"type": "small molecule",
+		"name": [
+			"Caproate",
+			"Hexanoate"
+		],
+		"KEGG compound identifier": [
+			"C01585"
+		]
+	},
+	"Linoleic acid (Omega-6 fatty acid)": {
+		"type": "small molecule",
+		"name": [
+			"Linoleic acid",
+			"Omega-6 fatty acid"
+		],
+		"KEGG compound identifier": [
+			"C01595"
+		]
+	},
+	"Pelargonic acid (Pelargonate, Nonanoic acid)": {
+		"type": "small molecule",
+		"name": [
+			"Pelargonic acid",
+			"Pelargonate",
+			"Nonanoic acid"
+		],
+		"KEGG compound identifier": [
+			"C01601"
+		]
+	},
+	"Octanoate (Caprylic acid)": {
+		"type": "small molecule",
+		"name": [
+			"Octanoate",
+			"Caprylic acid"
+		],
+		"KEGG compound identifier": [
+			"C06423"
+		]
+	},
+	"Myristic acid (Tetradecanoic acid, Tetradecanoate)": {
+		"type": "small molecule",
+		"name": [
+			"Myristic acid",
+			"Tetradecanoic acid",
+			"Tetradecanoate"
+		],
+		"KEGG compound identifier": [
+			"C06424"
+		]
+	},
+	"Arachidate (Arachidic acid)": {
+		"type": "small molecule",
+		"name": [
+			"Arachidate",
+			"Arachidic acid"
+		],
+		"KEGG compound identifier": [
+			"C06425"
+		]
+	},
+	"alpha-Linolenic acid (Omega-3 fatty acid, eicosapentaenoic acid)": {
+		"type": "small molecule",
+		"name": [
+			"alpha-Linolenic acid",
+			"Omega-3 fatty acid",
+			"eicosapentaenoic acid"
+		],
+		"KEGG compound identifier": [
+			"C06427",
+			"C12083"
+		]
+	},
+	"Acetate": {
+		"type": "small molecule",
+		"name": [
+			"Acetate"
+		],
+		"KEGG compound identifier": [
+			"C00033"
+		]
+	},
+	"Propanoate (Propionate)": {
+		"type": "small molecule",
+		"name": [
+			"Propanoate",
+			"Propionate"
+		],
+		"KEGG compound identifier": [
+			"C00163"
+		]
+	},
+	"Butyrate": {
+		"type": "small molecule",
+		"name": [
+			"Butyrate"
+		],
+		"KEGG compound identifier": [
+			"C00246"
+		]
+	},
+	"Valerate (Pentanoic acid, Pentanoate)": {
+		"type": "small molecule",
+		"name": [
+			"Valerate",
+			"Pentanoic acid",
+			"Pentanoate"
+		],
+		"KEGG compound identifier": [
+			"C00803"
+		]
+	},
+	"Isobutyrate (2-Methylpropanoic acid)": {
+		"type": "small molecule",
+		"name": [
+			"Isobutyrate",
+			"2-Methylpropanoic acid"
+		],
+		"KEGG compound identifier": [
+			"C02632"
+		]
+	},
+	"Isovalerate (3-Methylbutanoic acid)": {
+		"type": "small molecule",
+		"name": [
+			"Isovalerate",
+			"3-Methylbutanoic acid"
+		],
+		"KEGG compound identifier": [
+			"C08262"
+		]
+	},
+	"Methanol": {
+		"type": "small molecule",
+		"name": [
+			"Methanol"
+		],
+		"KEGG compound identifier": [
+			"C00132"
+		]
+	},
+	"Inositol (myo-Inositol, Inositol 1-phosphate, Myo-inositol phosphate)": {
+		"type": "small molecule",
+		"name": [
+			"Inositol",
+			"myo-Inositol",
+			"Inositol 1-phosphate",
+			"Myo-inositol phosphate"
+		],
+		"KEGG compound identifier": [
+			"C00137",
+			"C01177"
+		]
+	},
+	"Phenol": {
+		"type": "small molecule",
+		"name": [
+			"Phenol"
+		],
+		"KEGG compound identifier": [
+			"C00146"
+		]
+	},
+	"Acetoin (3-hydroxybutanone, acetyl methyl carbinol, [R]-Acetoin)": {
+		"type": "small molecule",
+		"name": [
+			"Acetoin",
+			"3-hydroxybutanone",
+			"acetyl methyl carbinol",
+			"[R]-Acetoin"
+		],
+		"KEGG compound identifier": [
+			"C00466",
+			"C00810"
+		]
+	},
+	"Ethanol": {
+		"type": "small molecule",
+		"name": [
+			"Ethanol"
+		],
+		"KEGG compound identifier": [
+			"C00469"
+		]
+	},
+	"Benzyl alcohol": {
+		"type": "small molecule",
+		"name": [
+			"Benzyl alcohol"
+		],
+		"KEGG compound identifier": [
+			"C00556"
+		]
+	},
+	"1,2-propanediol (Propene diol, Propylene glycol, [R]-1,2-propanediol, [R]-propane-1,2-diol, [S]-1,2-propanediol, [S]-propane-1,2-diol)": {
+		"type": "small molecule",
+		"name": [
+			"1,2-propanediol",
+			"Propene diol",
+			"Propylene glycol",
+			"[R]-1,2-propanediol",
+			"[R]-propane-1,2-diol",
+			"[S]-1,2-propanediol",
+			"[S]-propane-1,2-diol"
+		],
+		"KEGG compound identifier": [
+			"C00583",
+			"C02912",
+			"C02917"
+		]
+	},
+	"1,2-Ethanediol (Ethylene glycol)": {
+		"type": "small molecule",
+		"name": [
+			"1,2-Ethanediol",
+			"Ethylene glycol"
+		],
+		"KEGG compound identifier": [
+			"C01380"
+		]
+	},
+	"Isopropanol (2-Propanol)": {
+		"type": "small molecule",
+		"name": [
+			"Isopropanol",
+			"2-Propanol"
+		],
+		"KEGG compound identifier": [
+			"C01845"
+		]
+	},
+	"1,3-Propanediol": {
+		"type": "small molecule",
+		"name": [
+			"1,3-Propanediol"
+		],
+		"KEGG compound identifier": [
+			"C02457"
+		]
+	},
+	"[R,R]-2,3-Butanediol ([R,R]-Butanediol, [S,S]-2,3-Butanediol, [S,S]-Butanediol)": {
+		"type": "small molecule",
+		"name": [
+			"[R,R]-2,3-Butanediol",
+			"[R,R]-Butanediol",
+			"[S,S]-2,3-Butanediol",
+			"[S,S]-Butanediol"
+		],
+		"KEGG compound identifier": [
+			"C03044",
+			"C03046"
+		]
+	},
+	"Propanol (n-propanol, 1-Propanol)": {
+		"type": "small molecule",
+		"name": [
+			"Propanol",
+			"n-propanol",
+			"1-Propanol"
+		],
+		"KEGG compound identifier": [
+			"C05979"
+		]
+	},
+	"Isobutyl alcohol (isobutanol, 2-Methyl-1-propanol)": {
+		"type": "small molecule",
+		"name": [
+			"Isobutyl alcohol",
+			"isobutanol",
+			"2-Methyl-1-propanol"
+		],
+		"KEGG compound identifier": [
+			"C14710"
+		]
+	},
+	"Butanol": {
+		"type": "small molecule",
+		"name": [
+			"Butanol"
+		],
+		"KEGG compound identifier": [
+			"C06142"
+		]
+	},
+	"Pentanol": {
+		"type": "small molecule",
+		"name": [
+			"Pentanol"
+		],
+		"KEGG compound identifier": [
+			"C16834"
+		]
+	},
+	"Formaldehyde": {
+		"type": "small molecule",
+		"name": [
+			"Formaldehyde"
+		],
+		"KEGG compound identifier": [
+			"C00067"
+		]
+	},
+	"Acetaldehyde": {
+		"type": "small molecule",
+		"name": [
+			"Acetaldehyde"
+		],
+		"KEGG compound identifier": [
+			"C00084"
+		]
+	},
+	"Benzaldehyde": {
+		"type": "small molecule",
+		"name": [
+			"Benzaldehyde"
+		],
+		"KEGG compound identifier": [
+			"C00261"
+		]
+	},
+	"Propanal": {
+		"type": "small molecule",
+		"name": [
+			"Propanal"
+		],
+		"KEGG compound identifier": [
+			"C00479"
+		]
+	},
+	"Putrescine": {
+		"type": "small molecule",
+		"name": [
+			"Putrescine"
+		],
+		"KEGG compound identifier": [
+			"C00134"
+		]
+	},
+	"Ethanolamine (Phosphatidylethanolamine)": {
+		"type": "small molecule",
+		"name": [
+			"Ethanolamine",
+			"Phosphatidylethanolamine"
+		],
+		"KEGG compound identifier": [
+			"C00189",
+			"C00350"
+		]
+	},
+	"Methylamine (Monomethylamine)": {
+		"type": "small molecule",
+		"name": [
+			"Methylamine",
+			"Monomethylamine"
+		],
+		"KEGG compound identifier": [
+			"C00218"
+		]
+	},
+	"Spermidine": {
+		"type": "small molecule",
+		"name": [
+			"Spermidine"
+		],
+		"KEGG compound identifier": [
+			"C00315"
+		]
+	},
+	"Histamine": {
+		"type": "small molecule",
+		"name": [
+			"Histamine"
+		],
+		"KEGG compound identifier": [
+			"C00388"
+		]
+	},
+	"Tryptamine": {
+		"type": "small molecule",
+		"name": [
+			"Tryptamine"
+		],
+		"KEGG compound identifier": [
+			"C00398"
+		]
+	},
+	"Tyramine": {
+		"type": "small molecule",
+		"name": [
+			"Tyramine"
+		],
+		"KEGG compound identifier": [
+			"C00483"
+		]
+	},
+	"Dimethylamine": {
+		"type": "small molecule",
+		"name": [
+			"Dimethylamine"
+		],
+		"KEGG compound identifier": [
+			"C00543"
+		]
+	},
+	"Trimethylamine": {
+		"type": "small molecule",
+		"name": [
+			"Trimethylamine"
+		],
+		"KEGG compound identifier": [
+			"C00565"
+		]
+	},
+	"Spermine": {
+		"type": "small molecule",
+		"name": [
+			"Spermine"
+		],
+		"KEGG compound identifier": [
+			"C00750"
+		]
+	},
+	"Trimethylamine N-oxide (Trimethylamine-N-oxide)": {
+		"type": "small molecule",
+		"name": [
+			"Trimethylamine N-oxide",
+			"Trimethylamine-N-oxide"
+		],
+		"KEGG compound identifier": [
+			"C01104"
+		]
+	},
+	"Cadaverine": {
+		"type": "small molecule",
+		"name": [
+			"Cadaverine"
+		],
+		"KEGG compound identifier": [
+			"C01672"
+		]
+	},
+	"Phenylethylamine": {
+		"type": "small molecule",
+		"name": [
+			"Phenylethylamine"
+		],
+		"KEGG compound identifier": [
+			"C02455"
+		]
+	},
+	"Butylamine": {
+		"type": "small molecule",
+		"name": [
+			"Butylamine"
+		],
+		"KEGG compound identifier": [
+			"C18706"
+		]
+	},
+	"Urea": {
+		"type": "small molecule",
+		"name": [
+			"Urea"
+		],
+		"KEGG compound identifier": [
+			"C00086"
+		]
+	},
+	"Acetone": {
+		"type": "small molecule",
+		"name": [
+			"Acetone"
+		],
+		"KEGG compound identifier": [
+			"C00207"
+		]
+	},
+	"Indole": {
+		"type": "small molecule",
+		"name": [
+			"Indole"
+		],
+		"KEGG compound identifier": [
+			"C00463"
+		]
+	},
+	"Toluene": {
+		"type": "small molecule",
+		"name": [
+			"Toluene"
+		],
+		"KEGG compound identifier": [
+			"C01455"
+		]
+	},
+	"p-Cresol (4-methylphenol, 4-cresol)": {
+		"type": "small molecule",
+		"name": [
+			"p-Cresol",
+			"4-methylphenol",
+			"4-cresol"
+		],
+		"KEGG compound identifier": [
+			"C01468"
+		]
+	},
+	"Anthranilate (o-amino-benzoic acid)": {
+		"type": "small molecule",
+		"name": [
+			"Anthranilate",
+			"o-amino-benzoic acid"
+		],
+		"KEGG compound identifier": [
+			"C00108"
+		]
+	},
+	"Benzoate": {
+		"type": "small molecule",
+		"name": [
+			"Benzoate"
+		],
+		"KEGG compound identifier": [
+			"C00180"
+		]
+	},
+	"4-Aminobenzoate (para-aminobenzoic acid, PABA, p-Aminobenzoate)": {
+		"type": "small molecule",
+		"name": [
+			"4-Aminobenzoate",
+			"para-aminobenzoic acid",
+			"PABA",
+			"p-Aminobenzoate"
+		],
+		"KEGG compound identifier": [
+			"C00568"
+		]
+	},
+	"Indole-3-acetate (Indoleacetate)": {
+		"type": "small molecule",
+		"name": [
+			"Indole-3-acetate",
+			"Indoleacetate"
+		],
+		"KEGG compound identifier": [
+			"C00954"
+		]
+	},
+	"Ferulate": {
+		"type": "small molecule",
+		"name": [
+			"Ferulate"
+		],
+		"KEGG compound identifier": [
+			"C01494"
+		]
+	},
+	"Hippurate": {
+		"type": "small molecule",
+		"name": [
+			"Hippurate"
+		],
+		"KEGG compound identifier": [
+			"C01586"
+		]
+	},
+	"3-phenylpropionic acid (Phenylpropanoate, 3-phenylpropionate)": {
+		"type": "small molecule",
+		"name": [
+			"3-phenylpropionic acid",
+			"Phenylpropanoate",
+			"3-phenylpropionate"
+		],
+		"KEGG compound identifier": [
+			"C05629"
+		]
+	},
+	"Vanillate": {
+		"type": "small molecule",
+		"name": [
+			"Vanillate"
+		],
+		"KEGG compound identifier": [
+			"C06672"
+		]
+	},
+	"Phenylacetate": {
+		"type": "small molecule",
+		"name": [
+			"Phenylacetate"
+		],
+		"KEGG compound identifier": [
+			"C07086"
+		]
+	},
+	"Pyruvate": {
+		"type": "small molecule",
+		"name": [
+			"Pyruvate"
+		],
+		"KEGG compound identifier": [
+			"C00022"
+		]
+	},
+	"alpha-ketoglutarate (2-oxoglutarate)": {
+		"type": "small molecule",
+		"name": [
+			"alpha-ketoglutarate",
+			"2-oxoglutarate"
+		],
+		"KEGG compound identifier": [
+			"C00026"
+		]
+	},
+	"Oxaloacetate": {
+		"type": "small molecule",
+		"name": [
+			"Oxaloacetate"
+		],
+		"KEGG compound identifier": [
+			"C00036"
+		]
+	},
+	"Succinate": {
+		"type": "small molecule",
+		"name": [
+			"Succinate"
+		],
+		"KEGG compound identifier": [
+			"C00042"
+		]
+	},
+	"Glyoxylate (Glyoxylic acid, Glyoxalate)": {
+		"type": "small molecule",
+		"name": [
+			"Glyoxylate",
+			"Glyoxylic acid",
+			"Glyoxalate"
+		],
+		"KEGG compound identifier": [
+			"C00048"
+		]
+	},
+	"Formate": {
+		"type": "small molecule",
+		"name": [
+			"Formate"
+		],
+		"KEGG compound identifier": [
+			"C00058"
+		]
+	},
+	"2-Oxobutyrate (Alpha-ketobutyrate, 2-Oxobutanoate)": {
+		"type": "small molecule",
+		"name": [
+			"2-Oxobutyrate",
+			"Alpha-ketobutyrate",
+			"2-Oxobutanoate"
+		],
+		"KEGG compound identifier": [
+			"C00109"
+		]
+	},
+	"L-Malate ([S]-Malate, L-Malic acid, Malate, D-Malate, [R]-Malate)": {
+		"type": "small molecule",
+		"name": [
+			"L-Malate",
+			"[S]-Malate",
+			"L-Malic acid",
+			"Malate",
+			"D-Malate",
+			"[R]-Malate"
+		],
+		"KEGG compound identifier": [
+			"C00149",
+			"C00497"
+		]
+	},
+	"Fumarate": {
+		"type": "small molecule",
+		"name": [
+			"Fumarate"
+		],
+		"KEGG compound identifier": [
+			"C00122"
+		]
+	},
+	"Citrate": {
+		"type": "small molecule",
+		"name": [
+			"Citrate"
+		],
+		"KEGG compound identifier": [
+			"C00158"
+		]
+	},
+	"Glycolate": {
+		"type": "small molecule",
+		"name": [
+			"Glycolate"
+		],
+		"KEGG compound identifier": [
+			"C00160"
+		]
+	},
+	"L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)": {
+		"type": "small molecule",
+		"name": [
+			"L-Lactate",
+			"[S]-Lactate",
+			"Lactate",
+			"D-Lactate",
+			"[R]-Lactate"
+		],
+		"KEGG compound identifier": [
+			"C00186",
+			"C00256"
+		]
+	},
+	"Oxalate": {
+		"type": "small molecule",
+		"name": [
+			"Oxalate"
+		],
+		"KEGG compound identifier": [
+			"C00209"
+		]
+	},
+	"Taurine": {
+		"type": "small molecule",
+		"name": [
+			"Taurine"
+		],
+		"KEGG compound identifier": [
+			"C00245"
+		]
+	},
+	"Orotic acid (Orotate)": {
+		"type": "small molecule",
+		"name": [
+			"Orotic acid",
+			"Orotate"
+		],
+		"KEGG compound identifier": [
+			"C00295"
+		]
+	},
+	"4-Aminobutyrate (GABA)": {
+		"type": "small molecule",
+		"name": [
+			"4-Aminobutyrate",
+			"GABA"
+		],
+		"KEGG compound identifier": [
+			"C00334"
+		]
+	},
+	"Malonate": {
+		"type": "small molecule",
+		"name": [
+			"Malonate"
+		],
+		"KEGG compound identifier": [
+			"C00383"
+		]
+	},
+	"cis-Aconitate (trans-Aconitate, trans-Aconitic acid)": {
+		"type": "small molecule",
+		"name": [
+			"cis-Aconitate",
+			"trans-Aconitate",
+			"trans-Aconitic acid"
+		],
+		"KEGG compound identifier": [
+			"C00417",
+			"C02341"
+		]
+	},
+	"5-Aminovalerate": {
+		"type": "small molecule",
+		"name": [
+			"5-Aminovalerate"
+		],
+		"KEGG compound identifier": [
+			"C00431"
+		]
+	},
+	"Glutarate": {
+		"type": "small molecule",
+		"name": [
+			"Glutarate"
+		],
+		"KEGG compound identifier": [
+			"C00489"
+		]
+	},
+	"Itaconate": {
+		"type": "small molecule",
+		"name": [
+			"Itaconate"
+		],
+		"KEGG compound identifier": [
+			"C00490"
+		]
+	},
+	"Shikimate": {
+		"type": "small molecule",
+		"name": [
+			"Shikimate"
+		],
+		"KEGG compound identifier": [
+			"C00493"
+		]
+	},
+	"meso-Tartrate (meso-Tartaric acid, Tartrate, L-tartrate, L-Tartaric acid)": {
+		"type": "small molecule",
+		"name": [
+			"meso-Tartrate",
+			"meso-Tartaric acid",
+			"Tartrate",
+			"L-tartrate",
+			"L-Tartaric acid"
+		],
+		"KEGG compound identifier": [
+			"C00552",
+			"C00898"
+		]
+	},
+	"Cholic acid (Cholate)": {
+		"type": "small molecule",
+		"name": [
+			"Cholic acid",
+			"Cholate"
+		],
+		"KEGG compound identifier": [
+			"C00695"
+		]
+	},
+	"Betaine (Glycine betaine)": {
+		"type": "small molecule",
+		"name": [
+			"Betaine",
+			"Glycine betaine"
+		],
+		"KEGG compound identifier": [
+			"C00719"
+		]
+	},
+	"Crotonate (2-Butenoate, 2-Butenoic acid, Crotonic acid, 3-Methylacrylic acid)": {
+		"type": "small molecule",
+		"name": [
+			"Crotonate",
+			"2-Butenoate",
+			"2-Butenoic acid",
+			"Crotonic acid",
+			"3-Methylacrylic acid"
+		],
+		"KEGG compound identifier": [
+			"C01771"
+		]
+	},
+	"Glycocholate": {
+		"type": "small molecule",
+		"name": [
+			"Glycocholate"
+		],
+		"KEGG compound identifier": [
+			"C01921"
+		]
+	},
+	"2-Aminobutyric acid (2-Aminobutyrate)": {
+		"type": "small molecule",
+		"name": [
+			"2-Aminobutyric acid",
+			"2-Aminobutyrate"
+		],
+		"KEGG compound identifier": [
+			"C02261",
+			"C02356"
+		]
+	},
+	"Chenodeoxycholic acid (Chenodeoxycholate)": {
+		"type": "small molecule",
+		"name": [
+			"Chenodeoxycholic acid",
+			"Chenodeoxycholate"
+		],
+		"KEGG compound identifier": [
+			"C02528"
+		]
+	},
+	"Taurolithocholate": {
+		"type": "small molecule",
+		"name": [
+			"Taurolithocholate"
+		],
+		"KEGG compound identifier": [
+			"C02592"
+		]
+	},
+	"Pimelate": {
+		"type": "small molecule",
+		"name": [
+			"Pimelate"
+		],
+		"KEGG compound identifier": [
+			"C02656"
+		]
+	},
+	"Lithocholic acid": {
+		"type": "small molecule",
+		"name": [
+			"Lithocholic acid"
+		],
+		"KEGG compound identifier": [
+			"C03990"
+		]
+	},
+	"Deoxycholic acid": {
+		"type": "small molecule",
+		"name": [
+			"Deoxycholic acid"
+		],
+		"KEGG compound identifier": [
+			"C04483"
+		]
+	},
+	"Taurocholate": {
+		"type": "small molecule",
+		"name": [
+			"Taurocholate"
+		],
+		"KEGG compound identifier": [
+			"C05122"
+		]
+	},
+	"Isethionate": {
+		"type": "small molecule",
+		"name": [
+			"Isethionate"
+		],
+		"KEGG compound identifier": [
+			"C05123"
+		]
+	},
+	"Taurodeoxycholate": {
+		"type": "small molecule",
+		"name": [
+			"Taurodeoxycholate"
+		],
+		"KEGG compound identifier": [
+			"C05463"
+		]
+	},
+	"Glycodeoxycholate": {
+		"type": "small molecule",
+		"name": [
+			"Glycodeoxycholate"
+		],
+		"KEGG compound identifier": [
+			"C05464"
+		]
+	},
+	"Taurochenodeoxycholate": {
+		"type": "small molecule",
+		"name": [
+			"Taurochenodeoxycholate"
+		],
+		"KEGG compound identifier": [
+			"C05465"
+		]
+	},
+	"Glycochenodeoxycholate": {
+		"type": "small molecule",
+		"name": [
+			"Glycochenodeoxycholate"
+		],
+		"KEGG compound identifier": [
+			"C05466"
+		]
+	},
+	"Adipate": {
+		"type": "small molecule",
+		"name": [
+			"Adipate"
+		],
+		"KEGG compound identifier": [
+			"C06104"
+		]
+	},
+	"Glycolithocholate": {
+		"type": "small molecule",
+		"name": [
+			"Glycolithocholate"
+		],
+		"KEGG compound identifier": [
+			"C15557"
+		]
+	},
+	"2-methylbutyrate (2-methylbutanoic acid)": {
+		"type": "small molecule",
+		"name": [
+			"2-methylbutyrate",
+			"2-methylbutanoic acid"
+		],
+		"KEGG compound identifier": [
+			"C18319"
+		]
+	},
+	"H2O2": {
+		"type": "small molecule",
+		"name": [
+			"H2O2"
+		],
+		"KEGG compound identifier": [
+			"C00027"
+		]
+	},
+	"Zn2+ (Zinc)": {
+		"type": "small molecule",
+		"name": [
+			"Zn2+",
+			"Zinc"
+		],
+		"KEGG compound identifier": [
+			"C00038"
+		]
+	},
+	"Sulfate (Sulfuric acid, Sulfite)": {
+		"type": "small molecule",
+		"name": [
+			"Sulfate",
+			"Sulfuric acid",
+			"Sulfite"
+		],
+		"KEGG compound identifier": [
+			"C00059",
+			"C00094"
+		]
+	},
+	"Cu2+ (Copper)": {
+		"type": "small molecule",
+		"name": [
+			"Cu2+",
+			"Copper"
+		],
+		"KEGG compound identifier": [
+			"C00070"
+		]
+	},
+	"Ca2+ (Calcium)": {
+		"type": "small molecule",
+		"name": [
+			"Ca2+",
+			"Calcium"
+		],
+		"KEGG compound identifier": [
+			"C00076"
+		]
+	},
+	"K+ (Potassium)": {
+		"type": "small molecule",
+		"name": [
+			"K+",
+			"Potassium"
+		],
+		"KEGG compound identifier": [
+			"C00238"
+		]
+	},
+	"Nitrate (NO3-)": {
+		"type": "small molecule",
+		"name": [
+			"Nitrate",
+			"NO3-"
+		],
+		"KEGG compound identifier": [
+			"C00244"
+		]
+	},
+	"Bicarbonate (HCO3-, H2CO3, Carbonic acid, Carbonate)": {
+		"type": "small molecule",
+		"name": [
+			"Bicarbonate",
+			"HCO3-",
+			"H2CO3",
+			"Carbonic acid",
+			"Carbonate"
+		],
+		"KEGG compound identifier": [
+			"C00288"
+		]
+	},
+	"Mg2+ (Magnesium)": {
+		"type": "small molecule",
+		"name": [
+			"Mg2+",
+			"Magnesium"
+		],
+		"KEGG compound identifier": [
+			"C00305"
+		]
+	},
+	"Thiosulfate": {
+		"type": "small molecule",
+		"name": [
+			"Thiosulfate"
+		],
+		"KEGG compound identifier": [
+			"C00320"
+		]
+	},
+	"Dimethyl sulfide (Methyl sulfide)": {
+		"type": "small molecule",
+		"name": [
+			"Dimethyl sulfide",
+			"Methyl sulfide"
+		],
+		"KEGG compound identifier": [
+			"C00580"
+		]
+	},
+	"Cl- (Chloride)": {
+		"type": "small molecule",
+		"name": [
+			"Cl-",
+			"Chloride"
+		],
+		"KEGG compound identifier": [
+			"C00698"
+		]
+	},
+	"I- (Iodide)": {
+		"type": "small molecule",
+		"name": [
+			"I-",
+			"Iodide"
+		],
+		"KEGG compound identifier": [
+			"C00708"
+		]
+	},
+	"Na+ (Sodium)": {
+		"type": "small molecule",
+		"name": [
+			"Na+",
+			"Sodium"
+		],
+		"KEGG compound identifier": [
+			"C01330"
+		]
+	},
+	"Selenite": {
+		"type": "small molecule",
+		"name": [
+			"Selenite"
+		],
+		"KEGG compound identifier": [
+			"C05684"
+		]
+	},
+	"Fe3+ (Ferric ion, Fe2+, Ferrous ion)": {
+		"type": "small molecule",
+		"name": [
+			"Fe3+",
+			"Ferric ion",
+			"Fe2+",
+			"Ferrous ion"
+		],
+		"KEGG compound identifier": [
+			"C14819",
+			"C14818"
+		]
+	},
+	"Sulfur (Elemental sulfur)": {
+		"type": "small molecule",
+		"name": [
+			"Sulfur",
+			"Elemental sulfur"
+		],
+		"KEGG compound identifier": [
+			"C00087"
+		]
+	},
+	"CO2": {
+		"type": "small molecule",
+		"name": [
+			"CO2"
+		],
+		"KEGG compound identifier": [
+			"C00011"
+		]
+	},
+	"NH3 (Ammonia, NH4+, Ammonium)": {
+		"type": "small molecule",
+		"name": [
+			"NH3",
+			"Ammonia",
+			"NH4+",
+			"Ammonium"
+		],
+		"KEGG compound identifier": [
+			"C00014"
+		]
+	},
+	"Carbon monoxide (CO)": {
+		"type": "small molecule",
+		"name": [
+			"Carbon monoxide",
+			"CO"
+		],
+		"KEGG compound identifier": [
+			"C00237"
+		]
+	},
+	"H2 (Hydrogen)": {
+		"type": "small molecule",
+		"name": [
+			"H2",
+			"Hydrogen"
+		],
+		"KEGG compound identifier": [
+			"C00282"
+		]
+	},
+	"H2S (HS-)": {
+		"type": "small molecule",
+		"name": [
+			"H2S",
+			"HS-"
+		],
+		"KEGG compound identifier": [
+			"C00283"
+		]
+	},
+	"Nitric Oxide (NO)": {
+		"type": "small molecule",
+		"name": [
+			"Nitric Oxide",
+			"NO"
+		],
+		"KEGG compound identifier": [
+			"C00533"
+		]
+	},
+	"Nitrite (NO2-)": {
+		"type": "small molecule",
+		"name": [
+			"Nitrite",
+			"NO2-"
+		],
+		"KEGG compound identifier": [
+			"C00088"
+		]
+	},
+	"N2": {
+		"type": "small molecule",
+		"name": [
+			"N2"
+		],
+		"KEGG compound identifier": [
+			"C00697"
+		]
+	},
+	"Methane (CH4)": {
+		"type": "small molecule",
+		"name": [
+			"Methane",
+			"CH4"
+		],
+		"KEGG compound identifier": [
+			"C01438"
+		]
+	},
+	"Dichloromethane (Methylene chloride)": {
+		"type": "small molecule",
+		"name": [
+			"Dichloromethane",
+			"Methylene chloride"
+		],
+		"KEGG compound identifier": [
+			"C02271"
+		]
+	},
+	"DNA RNA Polynucleotide": {
+		"type": "macromolecule",
+		"name": [
+			"DNA RNA Polynucleotide"
+		],
+		"KEGG compound identifier": [
+			"C00039",
+			"C00046",
+			"C00419"
+		],
+		"degradation": {
+			"degradation product(s)": [
+				"Adenine",
+				"Cytosine",
+				"Guanine",
+				"Thymine",
+				"Uracil"
+			],
+			"remark": ""
+		}
+	},
+	"Starch (Amylopectin, Amylose, 1,4-alpha-D-Glucan, Pullulan, Resistant starch, Glycogen)": {
+		"type": "macromolecule",
+		"name": [
+			"Starch",
+			"Amylopectin",
+			"Amylose",
+			"1,4-alpha-D-Glucan",
+			"Pullulan",
+			"Resistant starch",
+			"Glycogen"
+		],
+		"KEGG compound identifier": [
+			"C00317",
+			"C00369",
+			"C00480",
+			"C00718",
+			"C00182"
+		],
+		"degradation": {
+			"degradation product(s)": [
+				"D-Glucose (Glucose)",
+				"Maltose",
+				"Dextrin (Maltotriose, Maltodextrin, Maltohexaose, Maltotetraose, Maltooligosaccharide)"
+			],
+			"remark": ""
+		}
+	},
+	"Polypeptide": {
+		"type": "macromolecule",
+		"name": [
+			"Polypeptide"
+		],
+		"KEGG compound identifier": [
+			"C00403"
+		],
+		"degradation": {
+			"degradation product(s)": [
+				"L-Alanine (D-Alanine, Alanine)",
+				"L-Arginine (Arginine)",
+				"L-Asparagine (Asparagine)",
+				"L-Aspartate (Aspartate, D-Aspartate)",
+				"L-Cysteine (Cysteine, D-Cysteine)",
+				"L-Glutamine (D-Glutamine, Glutamine)",
+				"L-Leucine (Leucine)",
+				"L-Histidine (Histidine)",
+				"L-Isoleucine (Isoleucine)",
+				"L-Threonine (Threonine)",
+				"L-Lysine (Lysine, D-Lysine)",
+				"L-Methionine (D-Methionine)",
+				"L-Phenylalanine (Phenylalanine, D-Phenylalanine)",
+				"L-Proline (Proline, D-Proline)",
+				"L-Serine (Serine, D-Serine)",
+				"L-Tryptophan (Tryptophan)",
+				"L-Tyrosine (Tyrosine)",
+				"L-Valine (Valine, D-Valine)",
+				"L-Glycine (Glycine)",
+				"L-Glutamate (L-Glutamic acid, Glutamate, D-Glutamate)",
+				"Prolylglycine",
+				"Glycyl-Phenylalanine",
+				"Leucyl-leucine",
+				"Alanylalanine",
+				"Glycylproline",
+				"Glycyl-leucine",
+				"Leucylglycine",
+				"Glycylglycine"
+			],
+			"remark": "Polypeptides can be broken down into amino acids and small peptides. Among them, only the compounds which have associations with the microbial species or the host cells in NJC19 are listed as the degradation products in degradation product(s) property."
+		}
+	},
+	"Triglyceride": {
+		"type": "macromolecule",
+		"name": [
+			"Triglyceride"
+		],
+		"KEGG compound identifier": [
+			"C00422"
+		],
+		"degradation": {
+			"degradation product(s)": [
+				"1,2-diacylglycerol (1-acylglycerol, Monoacylglycerol, Monoglyceride, Monoacylglycerol, Diacylglycerol)",
+				"Glycerol"
+			],
+			"remark": ""
+		}
+	},
+	"Chitin": {
+		"type": "macromolecule",
+		"name": [
+			"Chitin"
+		],
+		"KEGG compound identifier": [
+			"C00461"
+		],
+		"degradation": {
+			"degradation product(s)": [
+				"N-Acetyl-D-Glucosamine (N-Acetylglucosamine)"
+			],
+			"remark": ""
+		}
+	},
+	"Mannan": {
+		"type": "macromolecule",
+		"name": [
+			"Mannan"
+		],
+		"KEGG compound identifier": [
+			"C00464"
+		],
+		"degradation": {
+			"degradation product(s)": [
+				"D-Mannose (Mannose)"
+			],
+			"remark": ""
+		}
+	},
+	"Hyaluronan (Hyaluronate, Hyaluronic acid)": {
+		"type": "macromolecule",
+		"name": [
+			"Hyaluronan",
+			"Hyaluronate",
+			"Hyaluronic acid"
+		],
+		"KEGG compound identifier": [
+			"C00518"
+		],
+		"degradation": {
+			"degradation product(s)": [
+				"N-Acetyl-D-Glucosamine (N-Acetylglucosamine)",
+				"D-Glucuronic acid (D-Glucuronate)"
+			],
+			"remark": ""
+		}
+	},
+	"Arabinogalactan": {
+		"type": "macromolecule",
+		"name": [
+			"Arabinogalactan"
+		],
+		"KEGG compound identifier": [
+			"C00569"
+		],
+		"degradation": {
+			"degradation product(s)": [
+				"D-Galactose",
+				"D-Arabinose (L-Arabinose, Arabinose, L-Arabinopyranose, L-Arabinofuranose)"
+			],
+			"remark": ""
+		}
+	},
+	"Chondroitin 4-sulfate (Chondroitin 6-sulfate)": {
+		"type": "macromolecule",
+		"name": [
+			"Chondroitin 4-sulfate",
+			"Chondroitin 6-sulfate"
+		],
+		"KEGG compound identifier": [
+			"C00634",
+			"C00635"
+		],
+		"degradation": {
+			"degradation product(s)": [
+				"D-Glucuronic acid (D-Glucuronate)",
+				"N-Acetylgalactosamine (N-Acetyl-D-galactosamine)",
+				"Sulfate (Sulfuric acid, Sulfite)"
+			],
+			"remark": ""
+		}
+	},
+	"Pectin": {
+		"type": "macromolecule",
+		"name": [
+			"Pectin"
+		],
+		"KEGG compound identifier": [
+			"C00714"
+		],
+		"degradation": {
+			"degradation product(s)": [
+				"D-Galacturonate"
+			],
+			"remark": ""
+		}
+	},
+	"Cellulose (Beta-D-glucan)": {
+		"type": "macromolecule",
+		"name": [
+			"Cellulose",
+			"Beta-D-glucan"
+		],
+		"KEGG compound identifier": [
+			"C00760"
+		],
+		"degradation": {
+			"degradation product(s)": [
+				"D-Glucose (Glucose)",
+				"Cellobiose",
+				"Cellotetraose (Cellohexaose, Cellopentaose, Cellotriose)"
+			],
+			"remark": ""
+		}
+	},
+	"Fructan (Inulin, Levan)": {
+		"type": "macromolecule",
+		"name": [
+			"Fructan",
+			"Inulin",
+			"Levan"
+		],
+		"KEGG compound identifier": [
+			"C01355",
+			"C03323",
+			"C06215"
+		],
+		"degradation": {
+			"degradation product(s)": [
+				"D-Fructose (Fructose)",
+				"FOS (Fructooligosaccharide)"
+			],
+			"remark": ""
+		}
+	},
+	"Galactan": {
+		"type": "macromolecule",
+		"name": [
+			"Galactan"
+		],
+		"KEGG compound identifier": [
+			"C05796"
+		],
+		"degradation": {
+			"degradation product(s)": [
+				"D-Galactose"
+			],
+			"remark": ""
+		}
+	},
+	"Mucin (Mucus Glycoprotein)": {
+		"type": "macromolecule",
+		"name": [
+			"Mucin",
+			"Mucus Glycoprotein"
+		],
+		"KEGG compound identifier": [
+			"C02705"
+		],
+		"degradation": {
+			"degradation product(s)": [
+				"D-Galactose",
+				"N-Acetyl-D-Glucosamine (N-Acetylglucosamine)",
+				"D-Glucuronic acid (D-Glucuronate)",
+				"N-Acetylneuraminic acid (N-acetylneuraminate, Neu5Ac, Sialic acid)",
+				"D-Galacturonate",
+				"L-Fucose",
+				"N-Acetylgalactosamine (N-Acetyl-D-galactosamine)",
+				"L-Serine (Serine, D-Serine)",
+				"L-Cysteine (Cysteine, D-Cysteine)",
+				"L-Proline (Proline, D-Proline)",
+				"L-Threonine (Threonine)",
+				"Sulfate (Sulfuric acid, Sulfite)"
+			],
+			"remark": ""
+		}
+	},
+	"Hemicellulose, not specified": {
+		"type": "macromolecule",
+		"name": [
+			"Hemicellulose, not specified"
+		],
+		"KEGG compound identifier": [],
+		"degradation": {
+			"degradation product(s)": [
+				"D-Glucose (Glucose)",
+				"D-Ribose (Ribose)",
+				"D-Galactose",
+				"D-Mannose (Mannose)",
+				"D-Xylose (Xylose)",
+				"D-Glucuronic acid (D-Glucuronate)",
+				"D-Arabinose (L-Arabinose, Arabinose, L-Arabinopyranose, L-Arabinofuranose)",
+				"D-Galacturonate",
+				"L-Rhamnose (Rhamnose, D-Rhamnose)",
+				"XOS (Xylooligosaccharide)"
+			],
+			"remark": ""
+		}
+	},
+	"Xylan": {
+		"type": "macromolecule",
+		"name": [
+			"Xylan"
+		],
+		"KEGG compound identifier": [
+			"C00707"
+		],
+		"degradation": {
+			"degradation product(s)": [
+				"D-Xylose (Xylose)",
+				"XOS (Xylooligosaccharide)"
+			],
+			"remark": ""
+		}
+	},
+	"Arabinan": {
+		"type": "macromolecule",
+		"name": [
+			"Arabinan"
+		],
+		"KEGG compound identifier": [
+			"C02474"
+		],
+		"degradation": {
+			"degradation product(s)": [
+				"D-Arabinose (L-Arabinose, Arabinose, L-Arabinopyranose, L-Arabinofuranose)"
+			],
+			"remark": ""
+		}
+	},
+	"Hyodeoxycholic acid": {
+		"type": "small molecule",
+		"name": [
+			"Hyodeoxycholic acid"
+		],
+		"KEGG compound identifier": []
+	},
+	"alpha-Muricholic acid": {
+		"type": "small molecule",
+		"name": [
+			"alpha-Muricholic acid"
+		],
+		"KEGG compound identifier": [
+			"C17647"
+		]
+	},
+	"beta-Muricholic acid": {
+		"type": "small molecule",
+		"name": [
+			"beta-Muricholic acid"
+		],
+		"KEGG compound identifier": [
+			"C17726"
+		]
+	},
+	"omega-Muricholic acid": {
+		"type": "small molecule",
+		"name": [
+			"omega-Muricholic acid"
+		],
+		"KEGG compound identifier": [
+			"C17727"
+		]
+	},
+	"Tauro-b-muricholic acid": {
+		"type": "small molecule",
+		"name": [
+			"Tauro-b-muricholic acid"
+		],
+		"KEGG compound identifier": []
+	},
+	"Tauroursodeoxycholic acid": {
+		"type": "small molecule",
+		"name": [
+			"Tauroursodeoxycholic acid"
+		],
+		"KEGG compound identifier": [
+			"C16868"
+		]
+	},
+	"Ursodeoxycholic acid": {
+		"type": "small molecule",
+		"name": [
+			"Ursodeoxycholic acid"
+		],
+		"KEGG compound identifier": [
+			"C07880"
+		]
+	},
+	"Indole-3-lactic acid": {
+		"type": "small molecule",
+		"name": [
+			"Indole-3-lactic acid"
+		],
+		"KEGG compound identifier": []
+	},
+	"Indole-3-carboxaldehyde": {
+		"type": "small molecule",
+		"name": [
+			"Indole-3-carboxaldehyde"
+		],
+		"KEGG compound identifier": [
+			"C08493"
+		]
+	},
+	"7-Oxodeoxycholic acid": {
+		"type": "small molecule",
+		"name": [
+			"7-Oxodeoxycholic acid"
+		],
+		"KEGG compound identifier": []
+	},
+	"7-Oxolithocholic acid": {
+		"type": "small molecule",
+		"name": [
+			"7-Oxolithocholic acid"
+		],
+		"KEGG compound identifier": []
+	},
+	"Carnosine": {
+		"type": "small molecule",
+		"name": [
+			"Carnosine"
+		],
+		"KEGG compound identifier": [
+			"C00386"
+		]
+	},
+	"Glycylsarcosine": {
+		"type": "small molecule",
+		"name": [
+			"Glycylsarcosine"
+		],
+		"KEGG compound identifier": []
+	},
+	"Prolylglycine": {
+		"type": "small molecule",
+		"name": [
+			"Prolylglycine"
+		],
+		"KEGG compound identifier": []
+	},
+	"Glycyl-Phenylalanine": {
+		"type": "small molecule",
+		"name": [
+			"Glycyl-Phenylalanine"
+		],
+		"KEGG compound identifier": []
+	},
+	"Levomefolic acid": {
+		"type": "small molecule",
+		"name": [
+			"Levomefolic acid"
+		],
+		"KEGG compound identifier": []
+	},
+	"H+": {
+		"type": "small molecule",
+		"name": [
+			"H+"
+		],
+		"KEGG compound identifier": [
+			"C00080"
+		]
+	},
+	"Leucyl-leucine": {
+		"type": "small molecule",
+		"name": [
+			"Leucyl-leucine"
+		],
+		"KEGG compound identifier": [
+			"C11332"
+		]
+	},
+	"Alanylalanine": {
+		"type": "small molecule",
+		"name": [
+			"Alanylalanine"
+		],
+		"KEGG compound identifier": []
+	},
+	"Glycylproline": {
+		"type": "small molecule",
+		"name": [
+			"Glycylproline"
+		],
+		"KEGG compound identifier": []
+	},
+	"Glycyl-leucine": {
+		"type": "small molecule",
+		"name": [
+			"Glycyl-leucine"
+		],
+		"KEGG compound identifier": [
+			"C02155"
+		]
+	},
+	"Leucylglycine": {
+		"type": "small molecule",
+		"name": [
+			"Leucylglycine"
+		],
+		"KEGG compound identifier": []
+	},
+	"L-Dopa": {
+		"type": "small molecule",
+		"name": [
+			"L-Dopa"
+		],
+		"KEGG compound identifier": [
+			"C00355"
+		]
+	},
+	"Lysophosphatidylcholine (1-Lysophosphatidylcholine, 2-Lysophosphatidylcholine)": {
+		"type": "small molecule",
+		"name": [
+			"Lysophosphatidylcholine",
+			"1-Lysophosphatidylcholine",
+			"2-Lysophosphatidylcholine"
+		],
+		"KEGG compound identifier": [
+			"C04230",
+			"C04233"
+		]
+	},
+	"Cholesterol": {
+		"type": "small molecule",
+		"name": [
+			"Cholesterol"
+		],
+		"KEGG compound identifier": [
+			"C00187"
+		]
+	},
+	"Glycylglycine": {
+		"type": "small molecule",
+		"name": [
+			"Glycylglycine"
+		],
+		"KEGG compound identifier": [
+			"C02037"
+		]
+	}
+}
